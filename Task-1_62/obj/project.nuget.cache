@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "sCWlADisN258bvRAAlh7IeN76UdxQktPVdGzOs3ap4+nchmIHqjMngYE1zPVuz2i3aSXY+OTY5aEVbxkHqfCcg==",
+  "success": true,
+  "projectFilePath": "/home/helene/Рабочий стол/GeekBrains_Git/Csharp_forcourse/Seminar-8/Task-1_62/Task-1_62.csproj",
+  "expectedPackageFiles": [
+    "/home/helene/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.2/microsoft.aspnetcore.app.ref.8.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
